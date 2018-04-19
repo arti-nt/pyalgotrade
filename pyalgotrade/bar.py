@@ -28,6 +28,10 @@ class Frequency(object):
     * **Frequency.TRADE**: The bar represents a single trade.
     * **Frequency.SECOND**: The bar summarizes the trading activity during 1 second.
     * **Frequency.MINUTE**: The bar summarizes the trading activity during 1 minute.
+    * **Frequency.FIVE_MINUTES**: The bar summarizes the trading activity during 1 minute.
+    * **Frequency.FIFTEEN_MINUTES**: The bar summarizes the trading activity during 1 minute.
+    * **Frequency.THIRTY_MINUTES**: The bar summarizes the trading activity during 1 minute.
+    * **Frequency.FOUR_HOURS**: The bar summarizes the trading activity during 1 hour.
     * **Frequency.HOUR**: The bar summarizes the trading activity during 1 hour.
     * **Frequency.DAY**: The bar summarizes the trading activity during 1 day.
     * **Frequency.WEEK**: The bar summarizes the trading activity during 1 week.
